@@ -8,6 +8,5 @@ I enjoy being challenged and engaging with projects that require me to work outs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAssudaney&theme=dark)
 ![Jatin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JatinAssudaney&theme=dark)
 ![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=JatinAssudaney&show_icons=true&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JatinAssudaney&repo=portfolio&theme=dark)
 
 
