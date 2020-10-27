@@ -11,6 +11,6 @@ I enjoy being challenged and engaging with projects that require me to work outs
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JatinAssudaney&repo=portfolio&theme=dark)
 
 <!-- Actual text -->
-<div style="display:flex;align-items:center;">
-You can find me on <a style="margin-left:10px;" href="https://www.instagram.com/hireme_jatinassudaney/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111491.svg" alt="instagram" width="20"/></a>, or on <a style="margin-left:10px;" href="https://www.linkedin.com/in/jatin-assudaney/"><img  src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" alt="linkedin" width="20"/></a></div>.
+<div style="display:flex;justify-content:center;">
+You can find me on <a style="margin:0;padding:0;margin-left:4px;" href="https://www.instagram.com/hireme_jatinassudaney/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111491.svg" alt="instagram" width="20"/></a>, or on <a style="margin:0;padding:0;margin:0 4px;" href="https://www.linkedin.com/in/jatin-assudaney/"><img  src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" alt="linkedin" width="20"/></a>.</div>
 
