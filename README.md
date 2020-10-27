@@ -12,6 +12,6 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 <!-- Actual text -->
 ### Social
-<a href="https://www.instagram.com/hireme_jatinassudaney/" rel="Instagram Profile"><img style="margin-right:20px;" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="instagram" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/jatin-assudaney/" rel="Linkedin Profile"><img style="margin-right:20px;" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" alt="linkedin" width="30" height="30"/></a>
+<a href="https://www.instagram.com/hireme_jatinassudaney/" rel="Instagram Profile"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="instagram" width="30" height="30"/></a>     
+<a href="https://www.linkedin.com/in/jatin-assudaney/" rel="Linkedin Profile"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" alt="linkedin" width="30" height="30"/></a>
 
