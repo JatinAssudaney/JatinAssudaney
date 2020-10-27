@@ -12,14 +12,5 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 <!-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on <a href="https://www.instagram.com/hireme_jatinassudaney/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111491.svg" alt="instagram" width="30"/></a>, or on <a href="https://www.linkedin.com/in/jatin-assudaney/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" alt="linkedin" width="30"/></a>.
 
-<!-- Icons -->
-
-[1.2]: https://www.flaticon.com/svg/static/icons/svg/2111/2111491.svg (instagram icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/hireme_jatinassudaney/
-[2]: https://www.linkedin.com/in/jatin-assudaney/
