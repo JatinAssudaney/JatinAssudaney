@@ -10,6 +10,13 @@ I enjoy being challenged and engaging with projects that require me to work outs
 ![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=JatinAssudaney&show_icons=true&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JatinAssudaney&repo=portfolio&theme=dark)
 
+<div style="display:flex;align-items:flex-start;flex-wrap:wrap">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAssudaney&theme=dark" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JatinAssudaney&theme=dark" alt="Wakatime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JatinAssudaney&show_icons=true&theme=dark" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JatinAssudaney&repo=portfolio&theme=dark" alt="ReadMe Card"/>
+</div>
+
 <!-- Actual text -->
 <div style="display:flex;justify-content:center;">
 You can find me on <a style="margin:0;padding:0;margin-left:4px;" href="https://www.instagram.com/hireme_jatinassudaney/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111491.svg" alt="instagram" width="20"/></a>, or on <a style="margin:0;padding:0;margin:0 4px;" href="https://www.linkedin.com/in/jatin-assudaney/" target="_blank"><img  src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" alt="linkedin" width="20"/></a>.</div>
