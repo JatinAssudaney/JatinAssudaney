@@ -12,5 +12,5 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 <!-- Actual text -->
 
-You can find me on <a href="https://www.instagram.com/hireme_jatinassudaney/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111491.svg" alt="instagram" width="30"/></a>, or on <a href="https://www.linkedin.com/in/jatin-assudaney/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" alt="linkedin" width="30"/></a>.
+You can find me on <a style="margin-left:10px;" href="https://www.instagram.com/hireme_jatinassudaney/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111491.svg" alt="instagram" width="20"/></a>, or on <a style="margin-left:10px;" href="https://www.linkedin.com/in/jatin-assudaney/"><img  src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" alt="linkedin" width="20"/></a>.
 
