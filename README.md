@@ -1,6 +1,9 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=JatinAssudaney&show_icons=true&theme=dark)]
+![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=JatinAssudaney&show_icons=true&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JatinAssudaney&repo=portfolio&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAssudaney&theme=dark)
+
 <!--
 **JatinAssudaney/JatinAssudaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
