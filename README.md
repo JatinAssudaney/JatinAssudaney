@@ -19,6 +19,8 @@ I enjoy being challenged and engaging with projects that require me to work outs
 <a target="_blank" href="https://jatin-assudaney.web.app/">
   <img align="left" alt="Portfolio" width="22px" src="https://www.google.com/s2/favicons?domain=jatin-assudaney.web.app" />
 </a>
+<br />
+<br />
 
 ---
 
