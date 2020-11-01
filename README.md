@@ -20,7 +20,6 @@ I enjoy being challenged and engaging with projects that require me to work outs
   <img align="left" alt="Portfolio" width="22px" src="https://www.google.com/s2/favicons?domain=jatin-assudaney.web.app" />
 </a>
 
-
 ---
 
 ### Know more about my stats
