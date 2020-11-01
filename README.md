@@ -5,6 +5,22 @@ Strive to create visually appealing sites that feature user-friendly design and 
 With a Bachelor's Degree in Information Technology from "Jaypee Institute of Information Technology", I enjoy creating websites and learn new things.
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
 
+### Connect with Me
+
+<a target="_blank" href="https://www.linkedin.com/in/jatin-assudaney/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/hireme_jatinassudaney/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:hire.jatinassudaney@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://jatin-assudaney.web.app/">
+  <img align="left" alt="Portfolio" width="22px" src="https://www.google.com/s2/favicons?domain=jatin-assudaney.web.app" />
+</a>
+
+
 ---
 
 ### Know more about my stats
