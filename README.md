@@ -5,9 +5,14 @@ Strive to create visually appealing sites that feature user-friendly design and 
 With a Bachelor's Degree in Information Technology from "Jaypee Institute of Information Technology", I enjoy creating websites and learn new things.
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
 
+---
+
+### Know more about my stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAssudaney&theme=dark)
 ![Jatin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JatinAssudaney&theme=dark)
 ![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=JatinAssudaney&show_icons=true&theme=dark)
+
+---
 
 ---
 
