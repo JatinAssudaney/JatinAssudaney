@@ -2,6 +2,8 @@
 
 <br/>
 
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width=300>
+
 A self-taught full-stack web developer from New Delhi, India. Tend to make use of modern web technologies to solve problems that function correctly.
 Strive to create visually appealing sites that feature user-friendly design and clear navigation.
 With a Bachelor's Degree in Information Technology from "Jaypee Institute of Information Technology", I enjoy creating websites and learn new things.
