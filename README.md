@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width=300>
+<img src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width=300>
 
 A self-taught full-stack web developer from New Delhi, India. Tend to make use of modern web technologies to solve problems that function correctly.
 Strive to create visually appealing sites that feature user-friendly design and clear navigation.
