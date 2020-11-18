@@ -5,10 +5,10 @@
 <img src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width=300>
 
 - :technologist: A self-taught full-stack web developer from <strong>New Delhi, India.</strong> 
-- :desktop_computer: Tend to make use of modern web technologies to solve problems that function correctly.
-- :telescope: Strive to create visually appealing sites that feature user-friendly design and clear navigation.
-- :scroll: With a Bachelor's Degree in Information Technology from "Jaypee Institute of Information Technology", I enjoy creating websites and learn new things.
-- :1st_place_medal: I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
+- :desktop_computer: Tend to make use of <strong>modern web technologies</strong> to solve problems that function correctly.
+- :telescope: Strive to create visually appealing sites that feature <strong>user-friendly design and clear navigation.</strong>
+- :scroll: With a Bachelor's Degree in Information Technology from <strong>"Jaypee Institute of Information Technology"</strong>, I enjoy creating websites and learn new things.
+- :1st_place_medal: I enjoy being <strong>challenged and engaging with projects</strong> that require me to work outside my comfort and knowledge set, as <strong>continuing to learn</strong> new languages and development techniques are important to me.
 
 ### Connect with Me
 
