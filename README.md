@@ -10,6 +10,8 @@
 - :scroll: With a Bachelor's Degree in Information Technology from <strong>"Jaypee Institute of Information Technology"</strong>, I enjoy creating websites and learn new things.
 - :1st_place_medal: I enjoy being <strong>challenged and engaging with projects</strong> that require me to work outside my comfort and knowledge set, as <strong>continuing to learn</strong> new languages and development techniques are important to me.
 
+---
+
 ### Connect with Me
 
 <a target="_blank" href="https://www.linkedin.com/in/jatin-assudaney/">
