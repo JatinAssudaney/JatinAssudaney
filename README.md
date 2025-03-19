@@ -27,11 +27,12 @@
 
 ---
 
-- :technologist: A self-taught full-stack web developer from <strong>New Delhi, India.</strong>
-- :desktop_computer: Tend to make use of <strong>modern web technologies</strong> to solve problems that function correctly.
-- :telescope: Strive to create visually appealing sites that feature <strong>user-friendly design and clear navigation.</strong>
-- :scroll: With a Bachelor's Degree in Information Technology from <strong>"Jaypee Institute of Information Technology"</strong>, I enjoy creating websites and learn new things.
-- :1st_place_medal: I enjoy being <strong>challenged and engaging with projects</strong> that require me to work outside my comfort and knowledge set, as <strong>continuing to learn</strong> new languages and development techniques are important to me.
+🚀 **5+ years** crafting full-stack solutions with **React/Next.js & Node.js**, shipping **12+ production apps**
+⚡ Modern stack advocate: Built **SSR pipelines with Shadow DOM**, designed **CI/CD systems**, and led **micro-frontend migrations**  
+🎨 UI craftsman: Delivered **95+ Lighthouse scores** through semantic HTML, CSS-in-JS, and Web Vitals optimization  
+📊 B.Tech IT Graduate (7.6 GPA) with proven systems thinking - architected logistics OS reducing ops costs by **15%**  
+🌱 Currently exploring **AI-augmented development** (LangChain) and **edge computing** patterns with Cloudflare Workers  
+🤝 Mentor to 10+ junior devs - formalized onboarding programs and conducted **50+ technical interviews**
 
 ---
 <!-- 
